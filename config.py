@@ -1,0 +1,1 @@
+API_KEY = "sua key do openIA"
